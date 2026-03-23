@@ -1,11 +1,11 @@
 
-LoanProt  Flash Loan Protocol
+SafeLend  Flash Loan Protocol
 
 A battle-tested, production-grade flash loan protocol built on Stacks enabling strategic capital deployment for arbitrage operations.
 
  Overview
 
-Strike provides atomic flash loans with guaranteed sameblock repayment requirements, allowing sophisticated traders to access temporary capital for profitable arbitrage strategies without requiring collateral or longterm capital commitment.
+SafeLend  provides atomic flash loans with guaranteed sameblock repayment requirements, allowing sophisticated traders to access temporary capital for profitable arbitrage strategies without requiring collateral or longterm capital commitment.
 
  Key Features
 
